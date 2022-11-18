@@ -1,0 +1,12 @@
+Esto es una impresion de texto en el archivo
+Esto es la segunda linea
+Linea escrita por el for0
+Linea escrita por el for1
+Linea escrita por el for2
+Linea escrita por el for3
+Linea escrita por el for4
+Linea escrita por el for5
+Linea escrita por el for6
+Linea escrita por el for7
+Linea escrita por el for8
+Linea escrita por el for9
